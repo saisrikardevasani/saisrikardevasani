@@ -1,8 +1,8 @@
 # Sai Srikar Devasani
 
-AI/ML Engineer building production systems across NLP, Computer Vision, and Speech AI.
-MSc Computing (Artificial Intelligence) at Dublin City University. IEEE-published researcher.
-Open to AI Engineer / ML Engineer / Applied ML roles in Ireland and remotely.
+AI/ML Engineer · MSc Computing (AI) at Dublin City University · IEEE-published researcher  
+Graduating Sep 2026 · Stamp 2 (valid Dec 2026) → Stamp 1G eligible from graduation (24-month post-study work authorisation)  
+Open to AI Engineer / ML Engineer / Applied ML roles in Ireland or remote EU
 
 ---
 
@@ -10,37 +10,42 @@ Open to AI Engineer / ML Engineer / Applied ML roles in Ireland and remotely.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [VectorSight](https://github.com/saisrikardevasani/VectorSight) | LLM-powered SVG spatial understanding — converts raw SVG into structured JSON so language models read geometry, not code | FastAPI · Next.js · Python · TypeScript |
-| [Production NLP API](https://github.com/saisrikardevasani/Production-Grade-Multi-Feature-NLP-REST-API) | REST API wrapping 4 NLP models (spam, sentiment, summarization, language detection) with JWT auth, rate limiting, Docker, CI | FastAPI · Docker · pytest · GitHub Actions |
-| [Semantic Movie Search](https://github.com/saisrikardevasani/Semantic-Movie-Search-Recommendation-Engine) | Natural-language movie search using FAISS embeddings — meaning-based, not keyword-based | Python · FAISS · Streamlit |
-| [Facial Expression Music Rec](https://github.com/saisrikardevasani/Facial-Expression-Driven-Music-Recommendation-System) | Real-time emotion detection driving music recommendations — IEEE published | CNN · PyTorch · Gradio |
-| [Low-Resource ASR](https://github.com/saisrikardevasani/ASR-LSR-Wave2Vec) | Fine-tuning Wav2Vec2 and WavLM for low-resource and multilingual speech recognition | Wav2Vec2 · HuggingFace · PyTorch |
+| [VectorSight](https://github.com/saisrikardevasani/VectorSight) | Solved LLM spatial blindness — 61-transform geometry engine converts raw SVG into structured spatial JSON without fine-tuning | Python · FastAPI · Next.js · LangChain · Claude API |
+| [Production NLP API](https://github.com/saisrikardevasani/Production-Grade-Multi-Feature-NLP-REST-API) | REST API wrapping 4 NLP models (98.3% spam detection, ~95% sentiment) with JWT auth, Redis rate limiting, Docker, CI | FastAPI · DistilBERT · Docker · Redis · Prometheus |
+| [Facial Expression Music Rec](https://github.com/saisrikardevasani/Facial-Expression-Driven-Music-Recommendation-System) | Custom CNN (62.9% val accuracy, 7 emotions) driving Spotify playlist mapping — IEEE-published (ICICIS 2025) | TensorFlow · OpenCV · Gradio · Spotify API |
+| [Semantic Movie Search](https://github.com/saisrikardevasani/Semantic-Movie-Search-Recommendation-Engine) | Natural-language movie search over full TMDB dataset — 384-dim embeddings, millisecond cosine similarity | FAISS · Sentence Transformers · FastAPI · Streamlit |
+
+---
+
+## Currently Building
+
+| Project | What it is |
+|---|---|
+| [Roomsync](https://github.com/saisrikardevasani/Roomsync) | Multi-laptop acoustic echo cancellation with end-to-end encryption — C++ NLMS pipeline, Signal Protocol + MLS, Tauri desktop app |
+| [sai-amd](https://github.com/saisrikardevasani/sai-amd) | AI computer-use agent on AMD MI300X — 3-way router (SIMPLE/BROWSER/DESKTOP), Qwen-VL vision loop, Playwright automation |
+| [ASR Low-Resource](https://github.com/saisrikardevasani/ASR-LSR-Wave2Vec) | Fine-tuning Wav2Vec2-XLSR on Telugu for low-resource ASR — MSc dissertation research at DCU |
 
 ---
 
 ## Research
 
-**IEEE Publication:** Facial Expression-Driven Music Recommendation using Convolutional Neural Networks and Interactive Deployment
-- Emotion recognition via CNN-based feature extraction
-- Multimodal AI with real-time Gradio inference
+**IEEE Publication (ICICIS 2025):** [Facial Expression-Driven Music Recommendation Using Convolutional Neural Networks and Gradio Interface Integration](https://ieeexplore.ieee.org/document/11371105)  
+2nd International Conference on Integration of Computational Intelligent Systems · DOI: [10.1109/ICICIS65613.2025.11371105](https://doi.org/10.1109/ICICIS65613.2025.11371105)
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python · TypeScript · JavaScript · R · C/C++ · Java
+**Languages:** Python · C/C++ · TypeScript · JavaScript
 
-**ML/DL:** PyTorch · TensorFlow · Keras · scikit-learn · HuggingFace Transformers · OpenCV
+**ML & AI:** PyTorch · TensorFlow/Keras · HuggingFace Transformers · LLMs · RAG · FAISS · LangChain · scikit-learn · CNNs · ASR · NLP · Computer Vision
 
-**Speech/NLP:** Wav2Vec2 · WavLM · NLTK · spaCy · FAISS
+**Engineering:** FastAPI · Docker · GitHub Actions · Redis · Prometheus · JWT · Vercel · AWS · Git
 
-**Engineering:** FastAPI · Docker · GitHub Actions · Redis · SQLAlchemy · pytest
-
-**Cloud:** AWS · Azure · GCP · Prometheus · Datadog
+**Databases:** PostgreSQL · MongoDB · SQLite
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saisrikar-devasani-cod3r)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saisrikardevasani@gmail.com)
+[Portfolio](https://saisrikardevasani.vercel.app) · [LinkedIn](https://linkedin.com/in/saisrikardevasani) · [saisrikardevasani@gmail.com](mailto:saisrikardevasani@gmail.com)
